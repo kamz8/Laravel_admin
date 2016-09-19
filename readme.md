@@ -2,6 +2,6 @@
 
 This is simple way how to make Laravel Admin panel.
 
-This version have simple user role system. 
+This version has simple user role system. 
 
 
