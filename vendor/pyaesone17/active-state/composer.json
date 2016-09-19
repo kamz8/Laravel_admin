@@ -1,0 +1,23 @@
+{
+    "name": "pyaesone17/active-state",
+    "description": "Active State Checker For Laravel Url",
+    "keywords": ["dynamic url","laravel","url checker","request"],
+    "homepage": "https://github.com/pyaesone17/active-state",
+    "authors": [
+        {
+            "name": "Pyae Sone Nyein",
+            "email": "promise286@gmail.com"
+        }
+    ],
+    "require": {},
+ 	"autoload": {
+	    "psr-4": {
+	        "Pyaesone17\\ActiveState\\": "src/"
+	    },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "license": "MIT"
+
+}
